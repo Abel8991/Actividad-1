@@ -20,6 +20,12 @@ El más conocido es la numeración:
 1. lista
 2. listas
 
-Para crear sub listas se utilizan los símbolos ..*
+Para crear sub listas se utilizan los símbolos '*' unicamente detras de una palabra o frace.
 
 * Sublista. 
+
+Para hacer que la lista de numeración continue donde la dejaste, tienes que empezar la lista con la primera numeración que es 1. y cuando insertes la segunda lista, en vez de poner un 2. puedes poner ··1. · delante del 1:
+
+1. Lista de numeración continua.
+
+⋅⋅1. Ordered sub-list
